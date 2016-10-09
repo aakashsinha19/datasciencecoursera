@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data Science 
+Data Science Assignments and Codes
